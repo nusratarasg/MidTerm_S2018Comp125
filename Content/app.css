@@ -1,0 +1,32 @@
+
+/* Custom javaScripts goes here */
+/*  File name          contact.js
+    Author's name      Nusrat Ara Riaz
+    Student id         300759574
+    Mid term test      S2018 Comp125
+    File description   This file contain JavaScript Code 
+*/
+
+/* custom syle sheet */
+
+.navbar {
+    opacity: 0.8;
+}
+
+#MainTitle {
+    font-size: 4em;
+    color: #5690CF;
+    padding-top: 1em
+}
+
+main {
+    padding-top: 4.375em
+}
+
+article, section {
+    font-size: 1.35em;
+}
+
+#contactForm {
+    margin-bottom: 4em;
+}
